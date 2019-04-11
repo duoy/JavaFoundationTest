@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FoundationTest/FoundationTest.iml" filepath="$PROJECT_DIR$/FoundationTest/FoundationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFoundationTest.iml" filepath="$PROJECT_DIR$/JavaFoundationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" filepath="$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" />
+    </modules>
+  </component>
+</project>
