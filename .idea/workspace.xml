@@ -6,45 +6,67 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf92be16-7126-49a6-b32c-a0659b9ffb53" name="Default Changelist" comment="java foundation test">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaWebTest_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WebTest_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/FoundationTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EqualExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EunmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFoundationTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWebTest/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWebTest/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/AccountType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/EqualExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/EunmTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/ExtendsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton$SingletonHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/StaticExtends.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Test.class" afterDir="false" />
+    <list default="true" id="cf92be16-7126-49a6-b32c-a0659b9ffb53" name="Default Changelist" comment="IDEA整合github测试">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/IndexMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/SortUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/NIOTest/IOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/NIOTest/IOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/NIOTest/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/InversionCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ArraysMedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/CollectionsMethTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/IOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/MulThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWebTest/src/com/company/mytest/JavaWebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWebTest/web/showIP&amp;Date.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaWebTest_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaWebTest_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/WebTest_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoundationTest/FoundationTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FoundationTest/FoundationTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWebTest/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWebTest/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWebTest/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWebTest/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/ExtendsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/ExtendsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton$SingletonHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton$SingletonHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/StaticExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/StaticExtends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FoundationTest/com/company/mytest/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/FoundationTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -63,52 +85,28 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFoundationTest" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java">
+        <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MaxHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="187" column="29" lean-forward="true" selection-start-line="187" selection-start-column="29" selection-end-line="187" selection-end-column="29" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/artifacts/JavaWebTest_war_exploded.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EunmTest.java">
+        <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/IndexMaxHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="2705">
+              <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
               <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#3636#3645#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EqualExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWebTest/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -118,6 +116,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -130,13 +130,46 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FoundationTest/src/Test.java" />
-        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java" />
         <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EqualExample.java" />
-        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java" />
-        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java" />
-        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java" />
         <option value="$PROJECT_DIR$/WebTest/src/Test.java" />
         <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EunmTest.java" />
+        <option value="$PROJECT_DIR$/JavaWebTest/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/JavaWebTest/web/index.jsp" />
+        <option value="$PROJECT_DIR$/JavaWebTest/src/com/company/mytest/JavaWebTest.java" />
+        <option value="$PROJECT_DIR$/JavaWebTest/web/WEB-INF/showDate.xhtml" />
+        <option value="$PROJECT_DIR$/JavaWebTest/web/WEB-INF/showIP&amp;Date.jsp" />
+        <option value="$PROJECT_DIR$/JavaWebTest/web/showIP&amp;Date.jsp" />
+        <option value="$PROJECT_DIR$/FoundationTest/pom.xml" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/CollectionsSort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/CollectionsMethTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/MapTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ArraysMedTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/IOTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/NIOTest/IOServer.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/NIOTest/NIOServer.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/NIOTest/IOClient.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/MulThreadTest.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Sort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/Sort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MergeSort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Main.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/InversionCount.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/SortUtils.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Selection.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/QuickSort.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MaxHeap.java" />
+        <option value="$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/IndexMaxHeap.java" />
       </list>
     </option>
   </component>
@@ -147,33 +180,49 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
-    <option name="y" value="34" />
-    <option name="width" value="1346" />
-    <option name="height" value="541" />
+    <option name="x" value="1" />
+    <option name="y" value="245" />
+    <option name="width" value="1380" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
@@ -185,6 +234,13 @@
               <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
               <item name="FoundationTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
+              <item name="FoundationTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm_DataStruct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
@@ -196,20 +252,10 @@
             <path>
               <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaWebTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaWebTest" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFoundationTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFoundationTest" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaWebTest" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="FoundationTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Alogrithm_DataStruct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,13 +267,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="E:/IdeaProjects/WebTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,13 +287,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EunmTest">
-    <configuration name="EunmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.mytest.EunmTest" />
+  <component name="RunManager" selected="Application.IndexMaxHeap">
+    <configuration name="IndexMaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm_DataStruct.IndexMaxHeap" />
       <module name="FoundationTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.mytest.*" />
+          <option name="PATTERN" value="Algorithm_DataStruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +301,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.mytest.StaticExtends" />
+    <configuration name="InversionCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.mytest.Alogrithm_DataStruct.InversionCount" />
       <module name="FoundationTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.mytest.*" />
+          <option name="PATTERN" value="com.company.mytest.Alogrithm_DataStruct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm_DataStruct.MaxHeap" />
+      <module name="FoundationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm_DataStruct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm_DataStruct.QuickSort" />
+      <module name="FoundationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm_DataStruct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,10 +354,11 @@
       </method>
     </configuration>
     <configuration name="Tomcat 8.5.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JavaWebTest/" />
       <deployment>
         <artifact name="JavaWebTest:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/JavaWebTest_war_exploded" />
+            <option name="CONTEXT_PATH" value="/JavaWebTest" />
           </settings>
         </artifact>
       </deployment>
@@ -297,6 +370,39 @@
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60100" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -319,13 +425,26 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.InversionCount" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.MaxHeap" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.39" />
+      <item itemvalue="Application.IndexMaxHeap" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EunmTest" />
+        <item itemvalue="Application.IndexMaxHeap" />
+        <item itemvalue="Application.MaxHeap" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.InversionCount" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StaticExtends" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_PROPERTIES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -341,12 +460,41 @@
       <workItem from="1554769941725" duration="13103000" />
       <workItem from="1554858715724" duration="4081000" />
       <workItem from="1554904718679" duration="4697000" />
-      <workItem from="1554945251660" duration="6841000" />
+      <workItem from="1554945251660" duration="9719000" />
+      <workItem from="1555026317229" duration="12580000" />
+      <workItem from="1555205279444" duration="6447000" />
+      <workItem from="1555300789020" duration="14861000" />
+      <workItem from="1555381496213" duration="17474000" />
+      <workItem from="1555416769649" duration="1384000" />
+      <workItem from="1555552112629" duration="8086000" />
+      <workItem from="1556007263028" duration="5568000" />
+      <workItem from="1556065366319" duration="5855000" />
+      <workItem from="1556167640716" duration="5333000" />
+      <workItem from="1557192729992" duration="9407000" />
+      <workItem from="1557284701963" duration="10531000" />
+      <workItem from="1557370714668" duration="595000" />
+      <workItem from="1557487893351" duration="1759000" />
+      <workItem from="1557541385167" duration="17367000" />
+      <workItem from="1557574384830" duration="9219000" />
+      <workItem from="1557625948228" duration="818000" />
+      <workItem from="1557626833572" duration="9244000" />
+      <workItem from="1557659237601" duration="8690000" />
+      <workItem from="1557711271836" duration="29083000" />
+      <workItem from="1557798133778" duration="1276000" />
+      <workItem from="1557800526654" duration="5667000" />
     </task>
+    <task id="LOCAL-00001" summary="IDEA整合github测试">
+      <created>1554994320613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554994320613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32735000" />
+    <option name="totallyTimeSpent" value="216857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,38 +506,69 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49923196" visible="true" weight="0.2579425" />
-      <window_info id="Structure" order="1" sideWeight="0.50076807" side_tool="true" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6814815" visible="true" weight="0.19440243" />
+      <window_info id="Structure" order="1" sideWeight="0.31851852" side_tool="true" visible="true" weight="0.19440243" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="4" sideWeight="0.49384615" side_tool="true" weight="0.2397882" />
+      <window_info id="Web" order="5" sideWeight="0.49384615" side_tool="true" weight="0.2397882" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.26153848" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.37692308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23076923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32923076" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3276923" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.32923076" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.26153848" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49848714" weight="0.3276923" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.52307695" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.4523077" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4977307" weight="0.3276923" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.18615384" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3276923" />
       <window_info anchor="bottom" id="Application Servers" order="14" sideWeight="0.49924356" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.68421054" visible="true" weight="0.19469696" />
+      <window_info id="Structure" order="1" sideWeight="0.31578946" side_tool="true" visible="true" weight="0.19469696" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.49384615" side_tool="true" weight="0.2397882" />
+      <window_info id="Web" order="5" sideWeight="0.49384615" side_tool="true" weight="0.2397882" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.37704918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23076923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3276923" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.4523077" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4977307" weight="0.3276923" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.18615384" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3276923" />
+      <window_info anchor="bottom" id="Application Servers" order="14" sideWeight="0.49924356" weight="0.3276923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -429,103 +608,531 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java foundation test" />
-    <option name="LAST_COMMIT_MESSAGE" value="java foundation test" />
+    <MESSAGE value="IDEA整合github测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合github测试" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaFoundationTest$MergeSort.ic" NAME="MergeSort Coverage Results" MODIFIED="1557564936102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algorithm_DataStruct.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Test.java" />
-    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/JavaWebTest/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        <state relative-caret-position="198">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/JavaWebTest/web/showIP&amp;Date.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="4" column="103" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
+        <state relative-caret-position="396">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java">
+    <entry file="file://$PROJECT_DIR$/JavaWebTest/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="154">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java">
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="-456">
+          <caret line="370" column="6" lean-forward="true" selection-start-line="370" selection-start-column="6" selection-end-line="370" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest/src/Test.java" />
-    <entry file="file://$PROJECT_DIR$/WebTest/web/index.jsp" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="1254">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="1650">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EqualExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/artifacts/WebTest_war_exploded.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="377">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java">
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        <state relative-caret-position="111">
+          <caret line="503" column="58" selection-start-line="503" selection-start-column="58" selection-end-line="503" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWebTest/src/com/company/mytest/JavaWebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/artifacts/JavaWebTest_war_exploded.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EqualExample.java">
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="81">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaWebTest/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="820">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="1140" column="24" selection-start-line="1140" selection-start-column="24" selection-end-line="1140" selection-end-column="24" />
+          <folding>
+            <element signature="e#43969#43970#0" expanded="true" />
+            <element signature="e#43996#43997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/NIOTest/IOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/IOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#listAllFiles#0;class#IOTest#0" />
+            <element signature="method#copyFile#0;class#IOTest#0" />
+            <element signature="method#fastCopy#0;class#IOTest#0" />
+            <element signature="method#readFileContent#0;class#IOTest#0" />
+            <element signature="class#A#0;class#IOTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/NIOTest/IOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ExtendsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/EunmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="44">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/NIOTest/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/StaticExtends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#newFixedThreadPool#0;class#ThreadTest#0" />
+            <element signature="class#MyTask#0;class#ThreadTest#0" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="class#MyThreadFactory#0;class#ThreadTest#0" />
+            <element signature="class#MyIgnorePolicy#0;class#ThreadTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="1470" column="33" lean-forward="true" selection-start-line="1470" selection-start-column="33" selection-end-line="1470" selection-end-column="33" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#20727#20728#0" expanded="true" />
+            <element signature="e#20771#20772#0" expanded="true" />
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#23072#23073#0" expanded="true" />
+            <element signature="e#23112#23113#0" expanded="true" />
+            <element signature="e#113343#113344#0" expanded="true" />
+            <element signature="e#113370#113371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/MulThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3514">
+          <caret line="208" column="62" selection-start-line="208" selection-start-column="62" selection-end-line="208" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#MyRunnale#0" />
+            <element signature="method#incCnt#0;class#MulThreadTest#0" />
+            <element signature="method#getCnt#0;class#MulThreadTest#0" />
+            <element signature="method#func1#0;class#MulThreadTest#0" />
+            <element signature="method#fun2#0;class#MulThreadTest#0" />
+            <element signature="method#fun3#0;class#MulThreadTest#0" />
+            <element signature="method#fun#0;class#MulThreadTest#0" />
+            <element signature="method#testReentrantLock#0;class#MulThreadTest#0" />
+            <element signature="method#before#0;class#MulThreadTest#0" />
+            <element signature="method#after#0;class#MulThreadTest#0" />
+            <element signature="method#before1#0;class#MulThreadTest#0" />
+            <element signature="method#after1#0;class#MulThreadTest#0" />
+            <element signature="class#Producer#0;class#MulThreadTest#0" />
+            <element signature="class#Consumer#0;class#MulThreadTest#0" />
+            <element signature="e#4633#4703#0" />
+            <element signature="method#outputThreadNum1#0;class#MulThreadTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="129" column="25" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+          <folding>
+            <element signature="e#35161#35162#0" expanded="true" />
+            <element signature="e#35199#35200#0" expanded="true" />
+            <element signature="e#35486#35487#0" expanded="true" />
+            <element signature="e#35532#35533#0" expanded="true" />
+            <element signature="e#46394#46395#0" expanded="true" />
+            <element signature="e#46458#46459#0" expanded="true" />
+            <element signature="e#47036#47037#0" expanded="true" />
+            <element signature="e#47092#47093#0" expanded="true" />
+            <element signature="e#47615#47616#0" expanded="true" />
+            <element signature="e#47675#47676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="203" column="27" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/ArraysMedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/CollectionsMethTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+          <folding>
+            <element signature="e#14106#14107#0" expanded="true" />
+            <element signature="e#14155#14156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/SortTestHelper.java" />
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/InversionCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/com/company/mytest/Alogrithm_DataStruct/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/SortUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="method#generateNearlyOrderedArray#0;class#SortUtils#0" />
+            <element signature="e#2273#2274#0" expanded="true" />
+            <element signature="e#2327#2328#0" expanded="true" />
+            <element signature="method#isSorted#0;class#SortUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="226" column="19" selection-start-line="226" selection-start-column="19" selection-end-line="226" selection-end-column="19" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#10570#10571#0" expanded="true" />
+            <element signature="e#10602#10603#0" expanded="true" />
+            <element signature="e#13713#13714#0" expanded="true" />
+            <element signature="e#13768#13769#0" expanded="true" />
+            <element signature="e#24721#24722#0" expanded="true" />
+            <element signature="e#24775#24776#0" expanded="true" />
+            <element signature="e#46731#46732#0" expanded="true" />
+            <element signature="e#46796#46797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/MaxHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="187" column="29" lean-forward="true" selection-start-line="187" selection-start-column="29" selection-end-line="187" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationTest/src/Algorithm_DataStruct/IndexMaxHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2705">
+          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+          <folding>
+            <element signature="e#3636#3645#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -536,11 +1143,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>WebTest:war exploded</last-edited>
+          <last-edited>JavaWebTest:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -548,7 +1156,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Web (JavaWebTest)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -588,7 +1196,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -608,6 +1215,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

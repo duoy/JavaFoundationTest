@@ -3,6 +3,14 @@ package com.company.mytest;
 /**
  * 父类引用指向子类实例时只能访问子类从父类继承的变量和方法（或子类覆盖父类的方法）
  */
+interface peopleBehavior{
+
+    void eat();
+    default void sleep(){
+        System.out.println("sleeping ");
+    }
+    void method();
+}
 
 class Father{
     String str = "string in ather";
@@ -11,11 +19,17 @@ class Father{
         System.out.println("method in Father");
     }
 }
-class Child extends Father{
+class Child extends Father implements peopleBehavior{
     String str = "string in Child";
     int x = 2;
     int y;
-    void method(){
+
+    @Override
+    public void eat() {
+        System.out.println("eating");
+    }
+
+    public void method(){
         System.out.println("method in Child");
     }
     void newDefin(){

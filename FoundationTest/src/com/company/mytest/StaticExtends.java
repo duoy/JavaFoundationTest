@@ -72,11 +72,13 @@ class B extends A{
 public class StaticExtends {
     public static void main(String[] args) {
         //父类引用指向子类对象,只能调用从父类继承的属性和方法（不能访问B中定义的x);父类引用调用父类中的static属性和方法
+/*
         A b1 = new B();
         System.out.println(b1.nonStaticStr); //A非静态属性
         System.out.println(b1.staticStr); //A静态属性
-        b1.staticMethod();//结果都是父类的静态方法，说明静态方法不可以被重写，不能实现多态
+        b1.staticMethod();//父类的静态方法
         b1.nonStaticMethod();//调用子类重写的方法
+        System.out.println("-------------------------------");
 
         B b = new B();
         System.out.println(b.x);
@@ -97,6 +99,12 @@ public class StaticExtends {
         //B b = new B();
         B.test();
         System.out.println(B.staticStr);
+        System.out.println();
+        System.out.println("==============================");*/
+
+        B bb=null;
+        B.staticMethod();
+        //System.out.println(B.staticStr);
 
     }
 }
